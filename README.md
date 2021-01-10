@@ -1,7 +1,4 @@
 # Pentaho-Tableau-covid-19-visualisation 
-## fdsf
-
-
 Retrieved three different COVID-19 datasets from Git Hub repositories to the local device.
 
 **Country Data** - https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data
