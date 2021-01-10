@@ -1,5 +1,5 @@
-# Pentaho-Tableau-covid-19-visualisation
-yguygbd
+# Pentaho-Tableau-covid-19-visualisation yguygbd
+
 
 Retrieved three different COVID-19 datasets from Git Hub repositories to the local device.
 
