@@ -14,7 +14,7 @@ I have split country wise covid cases into multiple folders(where each folder ha
 
 Using pentaho created 3 transformations and combined them under one job(datamart).
 
-Three main tables created to store data from three different data files.
+Three main tables were created to store data from three different data files.
 
 Customized tables were created using **SQLyog** from three main tables for tableau visualizations. 
 
